@@ -9,7 +9,7 @@
 | Project | What it is | Links |
 |---|---|---|
 | **Tasswek (تسوّق معنا)** | Full e-commerce store with Cash, Sham Cash &amp; USDT payments | [Site](https://www.tasswek.com) · [Frontend](https://github.com/Kaisalafef/shopping-frontend) · [Backend](https://github.com/Ameerdawara/shopping) |
-| **Flash Pay** | Flutter money-transfer app + SaaS dashboard for managers &amp; staff (Syria) | [Google Play](https://play.google.com/store/apps/details?id=com.flashpay.sy) |
+| **Flash Pay** | Flutter money-transfer app + SaaS dashboard for managers &amp; staff (Syria) | [Google Play](https://play.google.com/store/apps/details?id=com.flashpay.sy) · [Frontend](https://github.com/Kaisalafef/FlashPay-Front) · [Backend](https://github.com/Ameerdawara/FlashPay-Back) |
 | **Swaida Go** | Flutter app that raises funds for development projects in As-Suwayda | [App](https://github.com/Kaisalafef/Swaida-Go-Front) · [Backend](https://github.com/Ameerdawara/Swaida_Go) |
 | **Close Friend** | Technical &amp; home services app in Iraq | Coming soon |
 
